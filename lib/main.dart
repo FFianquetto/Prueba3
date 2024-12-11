@@ -14,7 +14,7 @@ class MiApp extends StatelessWidget {
       theme: ThemeData(
         // ColorScheme usando el color seed
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color.fromARGB(237, 2, 2, 2),
+          seedColor: const Color.fromARGB(236, 18, 18, 18),
         ),
         useMaterial3: true,
       ),
